@@ -1,0 +1,10 @@
+.blogs-list-container {
+  list-style-type: none;
+  padding-left: 0px;
+  margin: 2%;
+}
+.loader {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
